@@ -1,0 +1,56 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+/* banner section start */
+.banner-container {
+  background: #fff;
+  background-image: url("/images/banner/banner3.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+.banner {
+  display: block;
+  width: 45%;
+  text-align: right;
+  margin-right: 230px;
+  max-width: 500px;
+}
+.banner-header {
+  color: #fff;
+  /* text-align: right; */
+  font-family: Work Sans;
+  font-size: 65px;
+  font-weight: 700;
+}
+.banner-desc {
+  color: #fff;
+  margin-top: 24px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 26px;
+}
+.banner-btn {
+  width: 160px;
+  height: 64px;
+  margin-top: 32px;
+  border-radius: 5px;
+  background: #fff;
+  border: none;
+  color: #005fac;
+  font-family: Work Sans;
+  font-size: 20px;
+  font-weight: 600;
+}
+/* banner section end */
+/* past year section start */
+
+/* past year section end */
+/* my plans start */
+/* my plans end */
