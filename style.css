@@ -5,7 +5,7 @@
 /* banner section start */
 .banner-container {
   background: #fff;
-  background-image: url("/images/banner/banner3.png");
+  background-image: url("./images/banner/banner3.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
