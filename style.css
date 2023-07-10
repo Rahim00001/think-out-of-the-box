@@ -133,3 +133,58 @@
   font-weight: 700;
 }
 /* positive mindset section end */
+/* footer section start */
+.footer-container {
+  display: flex;
+  gap: 100px;
+  background: #151414;
+  padding: 120px 200px;
+  margin-top: 120px;
+}
+.footer-column {
+  width: 50%;
+}
+.column1-heading {
+  color: #f8f8f8;
+  font-family: Work Sans;
+  font-size: 45px;
+  font-weight: 700;
+}
+.column1-detailes {
+  color: #fff;
+  font-family: Work Sans;
+  line-height: 26px;
+  margin-top: 10px;
+}
+.social-icons {
+  margin-top: 25px;
+}
+.icon {
+  margin-right: 10px;
+}
+.column2-heading {
+  color: #fff;
+  font-family: Work Sans;
+  font-size: 25px;
+  font-weight: 600;
+  margin-top: 10px;
+}
+input {
+  display: block;
+  padding: 22px 150px 22px 20px;
+  background-color: #151414;
+  border-radius: 8px;
+  border: 1px solid #fff;
+  margin: 15px 0;
+}
+.submit-btn {
+  border: 1px solid #fff;
+  border-radius: 8px;
+  background: #005fac;
+  padding: 20px 35px;
+  color: #fff;
+  font-family: Work Sans;
+  font-size: 20px;
+  font-weight: 600;
+}
+/* footer section end */
